@@ -1,5 +1,5 @@
 # Phantom-Token-Architecture-Example
-An example of phantom token architecture for OAuth for https://www.tylerpinho.com/blog/phantom-token-architecture
+An example of phantom token architecture for OAuth for [my blog.](https://www.tylerpinho.com/blog/phantom-token-architecture)
 
 ## Getting Started
 To run all 3 solutions: the Auth Server, the Orders API, and the Client Call Example, you will need to run the 'npm start' command in the root of the directory. This will spin up the two APIs and then make the API call to the Orders API and output the results.
